@@ -29,3 +29,7 @@ At first every test fails: that is expected. Each question you answer turns its 
 - Give every table a short alias, and put it in front of every column.
 - "Which ones have none?" is a `LEFT JOIN` and `IS NULL`.
 - Some tools, such as sqlcmd, show money values with four decimal places: 263.5000 is the same answer as the 263.50 in an **Expect** line.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
